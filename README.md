@@ -1,0 +1,2 @@
+# AndroidJumpDeveloperView
+点击App直接跳转到系统开发者界面，针对oppo每次需要输入验证码问题。
